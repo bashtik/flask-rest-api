@@ -1,1 +1,3 @@
-# flask-rest-api
+# Flask REST API
+
+Simple REST API built with Flask.
